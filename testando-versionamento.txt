@@ -1,2 +1,4 @@
 testando versionamento
 inserindo novas informações neste arquivo
+inserindo linha aqui também 
+e outra aqui
